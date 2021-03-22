@@ -1,0 +1,11 @@
+.female > i {
+  color: pink;
+  margin-left: 8px;
+  opacity: 1;
+}
+
+.male > i {
+  color: lightblue;
+  margin-left: 8px;
+  opacity: 1;
+}
